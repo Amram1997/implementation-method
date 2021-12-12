@@ -18,3 +18,5 @@
   [discusion-link](./fakeMap.js)
   4.implementation every method
   [discusion-link] (./fakeEvery.js)
+  5.implementation every method
+  [duscusion-link] (./fakeSome.js)
