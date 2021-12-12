@@ -16,3 +16,5 @@
   [discusion-link](./fakeForeach.js)
   3.implementation map method
   [discusion-link](./fakeMap.js)
+  4.implementation every method
+  [discusion-link] (./fakeEvery.js)
