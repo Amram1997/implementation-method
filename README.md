@@ -14,3 +14,5 @@
   [decision-link](./fakeFilter.js)
   2.implementation foreach method
   [discusion-link](./fakeForeach.js)
+  3.implementation map method
+  [discusion-link](./fakeMap.js)
