@@ -9,3 +9,6 @@
   4.fakeEvery.js
   5.fakeSome.js
   6.fakeMap.js
+
+  1.implementation filter method
+  [decision-link](./fakeFilter.js)
