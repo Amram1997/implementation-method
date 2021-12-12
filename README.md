@@ -12,3 +12,5 @@
 
   1.implementation filter method
   [decision-link](./fakeFilter.js)
+  2.implementation foreach method
+  [discusion-link](./fakeForeach.js)
